@@ -2,7 +2,7 @@ import {Component} from 'react'
 import {Route, Switch, Redirect} from 'react-router-dom'
 
 import Login from './components/Login'
-import Home from './components/Home'
+import Home from '/home/workspace/reactjs/coding-practices/jobbyApp/src'
 import Jobs from './components/Jobs'
 
 import JobItemDetails from './components/JobItemDetails'
